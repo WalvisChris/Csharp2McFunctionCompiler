@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Compiler.Core/Compiler.Core.csproj" />
+  <Project Path="Minecraft.Library/Minecraft.Library.csproj" />
+  <Project Path="UserScripts/UserScripts.csproj" />
+</Solution>
