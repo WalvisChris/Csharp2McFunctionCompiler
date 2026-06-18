@@ -1,3 +1,6 @@
+# C# to McFunction Compiler
+just a fun project to make my life easier in the long run...
+
 # Example C# code
 ```cs
 public class DataPack
