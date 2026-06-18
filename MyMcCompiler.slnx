@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="Compiler.Core/Compiler.Core.csproj" />
   <Project Path="Minecraft.Library/Minecraft.Library.csproj" />
   <Project Path="UserScripts/UserScripts.csproj" />
